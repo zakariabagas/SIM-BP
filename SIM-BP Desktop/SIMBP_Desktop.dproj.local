@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/19 02:26:29.000.626,=D:\QUICK ACCESS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/19 02:32:52.000.307,D:\QUICK ACCESS\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\QUICK ACCESS\Documents\Embarcadero\Studio\Projects\SIMBP_Desktop.dproj</Transaction>
+    <Transaction>2021/04/19 02:36:18.000.078,D:\QUICK ACCESS\Documents\Embarcadero\Studio\Projects\Unit1.pas=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/04/19 02:36:18.000.078,D:\QUICK ACCESS\Documents\Embarcadero\Studio\Projects\Unit1.fmx=F:\android\SKRIPSIKU_DESKTOP\Unit1.fmx</Transaction>
+    <Transaction>2021/04/19 02:36:22.000.622,D:\QUICK ACCESS\Documents\Embarcadero\Studio\Projects\SIMBP_Desktop.dproj=F:\android\SKRIPSIKU_DESKTOP\SIMBP_Desktop.dproj</Transaction>
+    <Transaction>2021/04/19 02:36:45.000.985,F:\android\SKRIPSIKU_DESKTOP\Unit1.fmx=F:\android\SKRIPSIKU_DESKTOP\Login.fmx</Transaction>
+    <Transaction>2021/04/19 02:36:45.000.985,F:\android\SKRIPSIKU_DESKTOP\Unit1.pas=F:\android\SKRIPSIKU_DESKTOP\Login.pas</Transaction>
+    <Transaction>2021/04/25 22:32:18.000.732,=F:\android\SKRIPSIKU_DESKTOP\HomeAdmin.pas</Transaction>
+    <Transaction>2021/04/25 22:32:44.000.558,F:\android\SKRIPSIKU_DESKTOP\HomeAdmin.pas=</Transaction>
+    <Transaction>2021/04/25 22:33:20.000.551,=F:\android\SKRIPSIKU_DESKTOP\HomeAdmin.pas</Transaction>
+    <Transaction>2021/05/05 05:58:30.000.371,=F:\android\SKRIPSIKU_DESKTOP\KelasAdmin.pas</Transaction>
+    <Transaction>2021/05/05 06:00:07.000.545,F:\android\SKRIPSIKU_DESKTOP\HomeAdmin.pas=</Transaction>
+    <Transaction>2021/05/05 06:00:38.000.921,=F:\android\SKRIPSIKU_DESKTOP\HomeAdmin.pas</Transaction>
+    <Transaction>2021/05/20 06:05:01.000.234,F:\android\SKRIPSIKU_DESKTOP\Login.pas=</Transaction>
+    <Transaction>2021/05/20 06:05:01.000.234,F:\android\SKRIPSIKU_DESKTOP\KelasAdmin.pas=</Transaction>
+    <Transaction>2021/05/20 06:05:01.000.145,F:\android\SKRIPSIKU_DESKTOP\HomeAdmin.pas=</Transaction>
+    <Transaction>2021/05/21 07:19:08.000.976,=F:\android\SKRIPSIKU_DESKTOP\Login.pas</Transaction>
+    <Transaction>2021/05/21 07:19:08.000.566,=F:\android\SKRIPSIKU_DESKTOP\HomeAdmin.pas</Transaction>
+    <Transaction>2021/05/21 07:27:13.000.024,=F:\android\SKRIPSIKU_DESKTOP\SplashScreen.pas</Transaction>
+    <Transaction>2021/05/21 07:34:58.000.572,=F:\android\SKRIPSIKU_DESKTOP\TentangPengembangLogin.pas</Transaction>
+    <Transaction>2021/05/21 07:34:58.000.354,=F:\android\SKRIPSIKU_DESKTOP\BantuanLogin.pas</Transaction>
+    <Transaction>2021/05/21 10:42:03.000.441,=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 10:43:42.000.129,F:\android\SKRIPSIKU_DESKTOP\HomeAdmin.fmx=F:\android\SKRIPSIKU_DESKTOP\MainAdmin.fmx</Transaction>
+    <Transaction>2021/05/21 10:43:42.000.129,F:\android\SKRIPSIKU_DESKTOP\HomeAdmin.pas=F:\android\SKRIPSIKU_DESKTOP\MainAdmin.pas</Transaction>
+    <Transaction>2021/05/21 10:45:53.000.728,F:\android\SKRIPSIKU_DESKTOP\Unit1.pas=F:\android\SKRIPSIKU_DESKTOP\HomeAdmin.pas</Transaction>
+    <Transaction>2021/05/21 10:45:53.000.728,F:\android\SKRIPSIKU_DESKTOP\Unit1.fmx=F:\android\SKRIPSIKU_DESKTOP\HomeAdmin.fmx</Transaction>
+    <Transaction>2021/05/21 11:14:08.000.949,=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 11:17:24.000.932,F:\android\SKRIPSIKU_DESKTOP\Unit1.pas=F:\android\SKRIPSIKU_DESKTOP\IndikatorAdmin.pas</Transaction>
+    <Transaction>2021/05/21 11:17:24.000.932,F:\android\SKRIPSIKU_DESKTOP\Unit1.fmx=F:\android\SKRIPSIKU_DESKTOP\IndikatorAdmin.fmx</Transaction>
+    <Transaction>2021/05/21 13:58:03.000.393,=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 14:02:27.000.124,F:\android\SKRIPSIKU_DESKTOP\DataAdmin.fmx=F:\android\SKRIPSIKU_DESKTOP\Unit1.fmx</Transaction>
+    <Transaction>2021/05/21 14:02:27.000.124,F:\android\SKRIPSIKU_DESKTOP\DataAdmin.pas=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 14:16:43.000.144,=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 14:17:20.000.395,F:\android\SKRIPSIKU_DESKTOP\GuruAdmin.fmx=F:\android\SKRIPSIKU_DESKTOP\Unit1.fmx</Transaction>
+    <Transaction>2021/05/21 14:17:20.000.395,F:\android\SKRIPSIKU_DESKTOP\GuruAdmin.pas=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 14:21:56.000.057,=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 14:25:39.000.579,F:\android\SKRIPSIKU_DESKTOP\SiswaAdmin.pas=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 14:25:39.000.579,F:\android\SKRIPSIKU_DESKTOP\SiswaAdmin.fmx=F:\android\SKRIPSIKU_DESKTOP\Unit1.fmx</Transaction>
+    <Transaction>2021/05/21 14:29:20.000.134,=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 14:29:57.000.698,F:\android\SKRIPSIKU_DESKTOP\KelasAdmin.pas=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 14:29:57.000.698,F:\android\SKRIPSIKU_DESKTOP\KelasAdmin.fmx=F:\android\SKRIPSIKU_DESKTOP\Unit1.fmx</Transaction>
+    <Transaction>2021/05/21 14:33:32.000.204,=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 14:34:59.000.991,F:\android\SKRIPSIKU_DESKTOP\WKAdmin.fmx=F:\android\SKRIPSIKU_DESKTOP\Unit1.fmx</Transaction>
+    <Transaction>2021/05/21 14:34:59.000.991,F:\android\SKRIPSIKU_DESKTOP\WKAdmin.pas=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 14:53:14.000.248,=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 14:53:45.000.012,F:\android\SKRIPSIKU_DESKTOP\PenggunaAdmin.fmx=F:\android\SKRIPSIKU_DESKTOP\Unit1.fmx</Transaction>
+    <Transaction>2021/05/21 14:53:45.000.012,F:\android\SKRIPSIKU_DESKTOP\PenggunaAdmin.pas=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 15:01:32.000.995,=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 15:02:41.000.415,F:\android\SKRIPSIKU_DESKTOP\LihatLaporanAdmin.fmx=F:\android\SKRIPSIKU_DESKTOP\Unit1.fmx</Transaction>
+    <Transaction>2021/05/21 15:02:41.000.415,F:\android\SKRIPSIKU_DESKTOP\LihatLaporanAdmin.pas=F:\android\SKRIPSIKU_DESKTOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 15:15:03.000.740,=F:\android\SKRIPSIKU_DESKTOP\BantuanAdmin.pas</Transaction>
+    <Transaction>2021/05/21 17:01:39.000.247,=F:\android\SKRIPSIKU_DESKTOP\TambahIndikatorAdmin.pas</Transaction>
+    <Transaction>2021/05/22 06:13:22.000.878,=F:\android\SKRIPSIKU_DESKTOP\TambahDataKelas.pas</Transaction>
+    <Transaction>2021/05/22 06:16:39.000.040,=F:\android\SKRIPSIKU_DESKTOP\TambahWargaKelas.pas</Transaction>
+    <Transaction>2021/05/22 06:27:18.000.092,=F:\android\SKRIPSIKU_DESKTOP\TambahDataAdmin.pas</Transaction>
+    <Transaction>2021/05/22 14:08:08.000.911,=F:\android\SKRIPSIKU_DESKTOP\TambahSiswaAdmin.pas</Transaction>
+    <Transaction>2021/05/22 14:08:08.000.380,=F:\android\SKRIPSIKU_DESKTOP\TambahGuruAdmin.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64="J5AXGF01H981NUH" Android="J5AXGF01H981NUH"/>
+	</ActiveMobileDevice>
+</BorlandProject>
